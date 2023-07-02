@@ -1,2 +1,2 @@
 # leetcode solutions for python
- This a repository in which i have planned to place each and every solution to  each and every probelm at leetcode and sove with the most favourite programming language  python.
+This is a repository where I have planned to place each and every solution to every problem on LeetCode and solve them using my favorite programming language, Python.
