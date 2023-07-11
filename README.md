@@ -18,6 +18,7 @@ This folder contains three folders
 This contain tag for all types of questions e.g. Arrays, Trees, etc.
 
 ## Roadmap
+Before hoping straight into the leetcode. You must be aware of the basic Data structures and Algorithms. For that reason you can go to tutorials folder to get links of the best videos on the youtube and learn Data structures and algorithms easily free of cost.
 If you are just starting you can go to https://neetcode.io/ for the starter roadmap and after you have completed the roadmap you can just start solving the problems that you like.
 
 ## Disclaimer
